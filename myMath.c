@@ -1,4 +1,4 @@
-#include <myMath.h>
+#include "myMath.h"
 
 double evalPoly(double x, double * poly, unsigned int s){
     double res = poly[0];
